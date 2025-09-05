@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiTestForAngularApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b0ce8c8927a6072ee07e86eb9b77dbdb0addaa6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiTestForAngularApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiTestForAngularApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
